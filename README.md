@@ -32,3 +32,11 @@ If a future version ever changes how data is handled, this policy will be update
 
 ## 8. Contact
 Questions? Email **janaire.dev@gmail.com**.
+
+
+## 9. Account and Data Deletion Request
+If you wish to permanently delete your account, sign-in credentials, and all associated portfolio metadata, you can choose either option below:
+
+* **In-App Removal:** Open the app, navigate to your **Account Settings** dashboard panel, and tap the **Delete Account** option to securely wipe your profile instantly.
+* **Web Request via Email:** If you have already uninstalled the application, email your registered account username directly to the developer at **janaire.dev@gmail.com** with the subject line `[Account Deletion Request]`. Your profile data will be permanently cleared from our records within 48 business hours.
+
